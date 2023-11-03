@@ -1,0 +1,5 @@
+name: DGame
+version: '1.0-SNAPSHOT'
+main: fr.daweii.dgame.dgame.Main
+api-version: 1.20
+authors: [ Daweii ]
